@@ -6,8 +6,8 @@
 #define PORT 3000
 #define IMAGE "lockscreen.png"
 
-#define SIXTY 1
-#define MINUTES 15 
+#define SIXTY 60
+#define MINUTES 40 
 
 
 Back::Back(int argc, char ** argv) 
